@@ -1,4 +1,4 @@
-package com.datatech.api.Models;
+package com.innovationtag.api.Models;
 
 import java.sql.Date;
 
