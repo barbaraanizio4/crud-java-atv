@@ -1,10 +1,10 @@
-package com.datatech.api.Controllers;
+package com.innovationtag.api.Controllers;
 
 import java.util.List;
 import java.util.Optional;
 
-import com.datatech.api.Models.Treinamento;
-import com.datatech.api.Repository.TreinamentoRepository;
+import com.innovationtag.api.Models.Treinamento;
+import com.innovationtag.api.Repository.TreinamentoRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
